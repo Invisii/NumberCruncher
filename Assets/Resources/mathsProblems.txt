@@ -1,9 +1,21 @@
 5 + 5=10#
 13 + 32=45#
 100 / 100=1#
-A man walks into a bar. He has 47 dollars but owes his best friend 25 for a favor he did last Tuesday in which the man borrowed his friend's hedge-clippers and then totally ruined them by trying to cut down a walnut tree. If he buys a $5 beer and tips the bartender a dollar, how many more beers could he buy while making sure he can still pay back his friend?=3#
 450 / 2=225#
 147 + 23=170#
 635 - 31=604#
 64 / 8=8#
-9999 - 9=9990
+9999 - 9=9990#
+17 * 3=53#
+(46 + 18) / 4=16#
+A man walks into a bar. He has 47 dollars but owes his best friend 25 for a favor he did last Tuesday in which the man borrowed his friend's hedge-clippers and then totally ruined them by trying to cut down a walnut tree. If he buys a $5 beer and tips the bartender a dollar, how many more beers could he buy while making sure he can still pay back his friend?=3#
+A man walks into a bar. He has 52 dollars but owes his best friend 20 for a favor he did last Tuesday in which the man borrowed his friend's hedge-clippers and then totally ruined them by trying to cut down a walnut tree. If he buys a $5 beer and tips the bartender 3 dollars, how many more beers could he buy while making sure he can still pay back his friend?=4#
+A man walks into a bar. He has 29 dollars but owes his best friend 12 for a favor he did last Tuesday in which the man borrowed his friend's hedge-clippers and then totally ruined them by trying to cut down a walnut tree. If he buys a $5 beer and tips the bartender a dollar, how many more beers could he buy while making sure he can still pay back his friend?=2#
+Adrianna needs to cut a pan of her special brownies into pieces for a party she's going to this weekend. She's pretty sure that if she cuts 5 columns and 5 rows she might have enough brownies for everyone. 17 people come and each eat one brownie, so she gives an extra one to her friend Greg and two more to Howie because she doesn't want her brownies to go to waste. How many more brownies does she need to pass out so that she doesn't have any left?=5#
+Adrianna needs to cut a pan of her special brownies into pieces for a party she's going to this weekend. She's pretty sure that if she cuts 6 columns and 3 rows she might have enough brownies for everyone. 13 people come and each eat one brownie, so she gives an extra one to her friend Greg and two more to Howie because she doesn't want her brownies to go to waste. How many more brownies does she need to pass out so that she doesn't have any left?2#
+Adrianna needs to cut a pan of her special brownies into pieces for a party she's going to this weekend. She's pretty sure that if she cuts 12 columns and 3 rows she might have enough brownies for everyone. 10 people come and each eat one brownie, so she gives an extra two to her friend Greg and four more to Howie because she doesn't want her brownies to go to waste. How many more brownies does she need to pass out so that she doesn't have any left?=20#
+I have a 7 in the tens place. I have an even number in the ones place. I am lower than 74. What number am I?=72#
+I have a 2 in the tens place. I have an odd number in the ones place. I am greater than 28. What number am I?=29#
+I have a 8 in the tens place. I have an even number in the ones place which is between 2 and 5. What number am I?=83#
+Erica usually eats 10,576 sandwiches per month. In June, she ate 15,498 sandwiches. How many more sandwiches did Erica eat in June?=4922#
+Lana and Markus like to collect wombats and store them in bags. Lana has 3 bags with the same amount of wombats in them, totaling 12 marbles. Markus has 3 bags with the same amount of wombats in them, totaling 18 marbles. How many more marbles does Markus have in each bag?=2#
